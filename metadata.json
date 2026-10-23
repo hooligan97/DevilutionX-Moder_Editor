@@ -1,0 +1,6 @@
+{
+  "name": "DevilutionX Editor",
+  "description": "Character and save game editor for DevilutionX and Diablo 1 / Hellfire with full Noctonic DEADitor JSON compatibility, stat modification, spellbook, inventory armory, and MPQ save tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
